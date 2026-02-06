@@ -207,25 +207,25 @@ If you’re a solo developer paying out of pocket, learning this early is a huge
 
 Image Tools:
 
-[file encryption](https://commontools.top/tools)
+[free online file encryption](https://commontools.top/tools)
 
-[image-compression](https://commontools.top/tools/image-compression)
+[free online image compression](https://commontools.top/tools/image-compression)
 
-[heic-to-jpg](https://commontools.top/tools/heic-to-jpg)
+[free online heic-to-jpg](https://commontools.top/tools/heic-to-jpg)
 
 
 Video Tools:
 
-[video-compression](https://commontools.top/tools/video-compression)
+[free online video compression](https://commontools.top/tools/video-compression)
 
-[video-to-gif](https://commontools.top/tools/video-to-gif)
+[free online video-to-gif](https://commontools.top/tools/video-to-gif)
 
-[video-converter](https://commontools.top/tools/video-converter)
+[free online video converter](https://commontools.top/tools/video-converter)
 
 File Tools:
 
-[conversion](https://commontools.top/tools/conversion)
+[free online conversion](https://commontools.top/tools/conversion)
 
-[encryption](https://commontools.top/tools/encryption)
+[free online encryption](https://commontools.top/tools/encryption)
 
 
