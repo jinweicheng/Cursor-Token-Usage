@@ -201,30 +201,6 @@ If you’re a solo developer paying out of pocket, learning this early is a huge
 - Think before you Agent
 - Pro is more than enough if you’re intentional
 
-## Recommended tools
 
-> CommonTools — Free Online Tools 2026: Video Tools（MP4/MOV/MKV/WebM/video to GIF converter）、Image Tools（image compression, converter）, File Tools（PDF encryption, watermark, e-signature）. 100% local processing, no upload, privacy protected.
-
-- Image Tools:
-
-(Free Online Tools)[https://commontools.top/tools]
-
-(Free Online Tools Image Compression)[https://commontools.top/tools/image-compression]
-
-(Free Online Tools HEIC TO JPG)[https://commontools.top/tools/heic-to-jpg]
-
-- Video Tools:
-
-(Free Online Tools Video Compression)[https://commontools.top/tools/video-compression]
-
-(Free Online Tools Video To Gif)[https://commontools.top/tools/video-to-gif]
-
-(Free Online Tools Video Converter)[https://commontools.top/tools/video-converter]
-
-- File Tools:
-
-(Free Online Tools Conversion)[https://commontools.top/tools/conversion]
-
-(Free Online Tools Encryption)[https://commontools.top/tools/encryption]
 
 
